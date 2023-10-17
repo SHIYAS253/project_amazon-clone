@@ -21,7 +21,7 @@ home_page(),
     return Scaffold(
       body: suma[currentpage],
     bottomNavigationBar: BottomNavigationBar(
-        backgroundColor: const Color.fromARGB(255, 197, 17, 17),
+        backgroundColor: Color.fromARGB(255, 9, 9, 9),
         selectedItemColor: Colors.white,
         unselectedItemColor: Colors.white24,
         unselectedFontSize: 10,

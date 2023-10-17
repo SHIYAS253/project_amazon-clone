@@ -54,7 +54,7 @@ class _home_pageState extends State<home_page> {
                       children: [
                         Container(
                           color: Colors.black,
-                          height: 40,
+                          height: 50,
                           width: 320,
                           child: TextFormField(
                             decoration: InputDecoration(
